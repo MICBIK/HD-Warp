@@ -5,7 +5,6 @@ Warp IDE multi-account seamless switching gateway tool.
 ## Features
 
 - 🔄 Seamless account switching without restarting IDE
-- 🌐 MITM proxy gateway for request interception
 - 📊 Real-time quota monitoring
 - 🚀 Auto-switch when quota depleted
 - ⛔ Auto-detect and skip banned accounts
