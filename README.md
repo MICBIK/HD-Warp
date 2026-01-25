@@ -164,7 +164,7 @@ brew install python@3.13 mitmproxy
 - 🎨 界面优化
 
 ### v1.1.1
-- ✨ 新增设备标识轮换
+- ✨ 新增设备标识
 - 🔧 Rules 动态注入功能
 - 📊 统计面板优化
 
