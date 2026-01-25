@@ -53,10 +53,18 @@
 
 ### 下载链接
 
-前往 [Releases](../../releases) 页面下载最新版本：
+<p align="center">
+  <a href="https://github.com/MICBIK/HD-Warp/releases/latest">
+    <img src="https://img.shields.io/github/v/release/MICBIK/HD-Warp?style=for-the-badge&label=下载最新版" alt="Download"/>
+  </a>
+</p>
 
-- **macOS**: `HD-Warp-Mac-v1.1.2.dmg`
-- **Windows**: `HD-Warp-Win-v1.1.2-Setup.exe`
+👉 **[点击这里下载最新版本](https://github.com/MICBIK/HD-Warp/releases/latest)**
+
+| 平台 | 文件 | 说明 |
+|------|------|------|
+| **macOS** | `HD Warp-1.1.2-arm64.dmg` | Apple Silicon (M1/M2/M3) |
+| **Windows** | `HD Warp Setup 1.1.2.exe` | Windows 10/11 64位 |
 
 > ⚠️ **macOS 用户**：首次打开如遇"应用已损坏"提示，请在终端执行：
 > ```bash
