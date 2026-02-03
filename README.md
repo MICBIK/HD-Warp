@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshots/banner.png" alt="HD Warp Banner" width="600"/>
+  <img src="github-release/docs/screenshots/banner.png" alt="HD Warp Banner" width="600"/>
 </p>
 
 <h1 align="center">🚀 HD Warp - 无感换号网关</h1>
@@ -37,7 +37,7 @@
 | 🎨 **现代界面** | Electron 桌面应用，简洁易用 |
 
 <p align="center">
-  <img src="docs/screenshots/home.png" alt="主界面" width="700"/>
+  <img src="github-release/docs/screenshots/home.png" alt="主界面" width="700"/>
 </p>
 
 ---
